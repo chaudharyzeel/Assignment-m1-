@@ -1,1 +1,1 @@
-# Assignment-m1-
+This assignment of module 1 is about the basic fundamentals of s/w testing which includes the concept like what is s/w testing,manual & automation testing, testing activities, testing objectives,why testing is necessary, when to start & Stop software testing, software architecture,SDLC,SDLC model(waterfall, incremental, spiral,agile) Project & product, SRS, Usecase & concept of OOP.
